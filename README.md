@@ -1,3 +1,3 @@
 # projecteuler
 
-Solving problems from (projecteulet.net)[https://projecteuler.net].
+Solving problems from [projecteulet.net](https://projecteuler.net).
